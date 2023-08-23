@@ -2,9 +2,9 @@
 <div>
     <h1>Olá!!! Eu sou o Fabrício 👋 </h1>
     <h2>Bem-vindo ao meu Perfil. </h2>
-    <p> Me chamo Fabrício Farias, atualmente cursando sistemas de informação na UFRA. Tenho como foco no momento aprender e praticar desenvolvimento mobile. Sabendo que as smartphones são amplamente utilizados no mundo, o mercado está em crescente demanda, estar diretamente ligado a experiencia de usuários, flexibilidade e tantas outras razões que me fazem focar e amar essa área da tecnologia. 
+    <p> Me chamo Fabrício Farias, atualmente cursando sistemas de informação na UFRA. Tenho como foco no momento aprender e praticar desenvolvimento mobile. Sabendo que as smartphones são amplamente utilizados no mundo, o mercado está em crescente demanda, estar diretamente ligado a experiencia de usuários, flexibilidade e tantas outras razões que me fazem focar e amar esse ramo do de desenvolvimento de software.
     </p>
-    <p>Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
+    <p>Aprender, praticar e ser desafiado é o que gosto, espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
     </p>
 </div>
 <div>
