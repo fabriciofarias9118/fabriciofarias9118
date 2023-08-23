@@ -18,3 +18,9 @@
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   </p>
 <p>
+
+<div align="center">
+  <a href="https://github.com/83Rafa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciofarias9118&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofarias9118&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
