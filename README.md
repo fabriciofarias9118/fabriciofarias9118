@@ -11,7 +11,6 @@
 <p>
   <p >  
     <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Android%20Studio-42B883?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
